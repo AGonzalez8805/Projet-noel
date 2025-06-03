@@ -1,0 +1,54 @@
+.bg-image{
+    background-image: url(/images/illustration-de-decoration-de-cadre-de-noel.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 40px;
+}
+
+.formulaireInscription{
+    width: 35%;
+    padding-top: 5%;
+}
+
+.formulaire{
+    border: 5px solid #DE4242;
+    padding: 5%;
+    border-radius: 10%;
+}
+
+.border{
+    border: none !important; 
+    border-top: 5px solid #D43D3D !important;
+    border-top-left-radius: 20px !important;
+    border-top-right-radius: 20px !important; 
+    width: 100%;
+    text-align: center;
+    font-family: "IBM", sans-serif;
+}
+
+.btn {
+    border: 2px solid #D43D3D;
+    border-radius: 25px;
+    padding: 5px 50px;
+    text-align: center;
+}
+
+.navbar, footer{
+    background-color: #1C7326;
+    font-family: "Playfair Display SC", serif;
+    
+}
+
+.navbar{
+    height: 90px;
+    width: 100%;
+}
+
+.footer{
+    padding: 15px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 90px;
+}
